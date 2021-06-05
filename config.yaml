@@ -3,12 +3,11 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 1
-        sound: 3
-        audio: 3
-        music: 3
-        transformer: 2
-        nlp: 1
+        spectrogram: 1
+        sound: 1
+        audio: 1
+        music: 1
+        transformer: 1
 
 # 通知の閾値
 score_threshold: 0
