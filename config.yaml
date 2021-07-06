@@ -4,9 +4,9 @@ subject: 'cat:cs.*'
 # 検索キーワード
 keywords:
         spectrogram: 1
-        sound: 3
-        audio: 3
-        music: 3
+        sound: 1
+        audio: 1
+        music: 1
         transformer: 1
 
 # 通知の閾値
